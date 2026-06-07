@@ -61,7 +61,7 @@ https://wokwi.com/projects/464929365270426625
 ---
 
 ## Project Structure
-
+```
 text
 Digital-Voting-Machine-with-Secure-Memory
 │
@@ -76,7 +76,7 @@ Digital-Voting-Machine-with-Secure-Memory
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-
+```
 
 ---
 
